@@ -1,0 +1,22 @@
+{
+  "name": "ck-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Force-Wj/ck-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Force-Wj/ck-cli/issues"
+  },
+  "homepage": "https://github.com/Force-Wj/ck-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
